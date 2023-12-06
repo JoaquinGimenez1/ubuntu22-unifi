@@ -5,6 +5,7 @@ This script installs the UniFi Network Controller on a system running Ubuntu 22.
 It is worth noting that [this script](https://community.ui.com/questions/UniFi-Installation-Scripts-or-UniFi-Easy-Update-Script-or-UniFi-Lets-Encrypt-or-UniFi-Easy-Encrypt-/ccbc7530-dd61-40a7-82ec-22b17f027776) also installs UniFi on Ubuntu 22.04 and it configures SSL certificates to enhance security.
 
 ## Script breakdown
+> Generated using ChatGPT
 Here's a breakdown of what each part of the script does:
 
 1. **Update and Upgrade Packages:**
