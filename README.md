@@ -6,6 +6,7 @@ It is worth noting that [this script](https://community.ui.com/questions/UniFi-I
 
 ## Script breakdown
 > Generated using ChatGPT
+
 Here's a breakdown of what each part of the script does:
 
 1. **Update and Upgrade Packages:**
